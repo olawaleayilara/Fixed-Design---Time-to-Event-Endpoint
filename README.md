@@ -5,7 +5,7 @@ bibliography: bibliography.bib
 
 This repository is an introduction to simulation of adaptive clinical trials. The programming style used in this example was intentionally kept simple for clarity.
 
-# Introduction {#sec-intro}
+# Introduction
 
 This example illustrates a fixed sample design within the Bayesian framework. I will introduce the adaptive design for this problem in Part II.
 
