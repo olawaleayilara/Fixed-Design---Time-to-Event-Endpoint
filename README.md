@@ -4,6 +4,8 @@ This repository is an introduction to simulation of adaptive clinical trials. I 
 
 **NOTE:** The programming style was intentionally kept simple for clarity.
 
+Refer to the **.R** files for scripts used in this example.
+
 **Hypothetical example.** Suppose that an investigator is planning a trial to study a new drug that can potentially prevent infection- and cardiovascular-related hospitalization and death in survivors of hospitalization from a severe infection after their hospital discharge.
 
 Patients will be randomized to either an experimental drug arm $(E)$ or standard-of-care $(S)$. The primary objective is to compare the treatment effect on patients randomized to $(E)$ or $(S)$. The primary outcome is the time-to-first occurrence of composite of infection- and cardiovascular-related hospitalization, or death, up to 1 year. The trial is planned to recruit patients for 3 years with a maximum of 1 year follow-up. The primary analysis will test the following hypotheses:
