@@ -2,7 +2,7 @@
 # Simulation for Bayesian Adaptive Design: Time-to-event Endpoint I 
 
 
-This repository is an introduction to simulation of adaptive clinical trials. The programming style used in this example was intentionally kept simple for clarity.
+This repository consists of R codes for simulating a fixed trial design within the Bayesian framework. The ultimate goal is to provide R codes for the simulation of adaptive clinical trials (Part II). Please note that the programming style used in this example was intentionally kept simple for clarity.
 
 # Introduction
 
